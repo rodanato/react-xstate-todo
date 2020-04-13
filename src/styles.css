@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.filters {
+  list-style: none;
+}
+
+.filters li {
+  display: block;
+  margin-bottom: 15px;
+}
+
+
+.filter {
+  display: inline-flex;
+  margin-bottom: 10px;
+}
+.filter__close {
+  cursor: pointer;
+  margin-left: 10px;
+}
